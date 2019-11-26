@@ -1,0 +1,31 @@
+body {
+    background-image: url("http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Stars-And-Stripes-Wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Calistoga', cursive;
+    color: white;
+    padding: 30px;
+}
+
+.container {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.pic1 {
+    margin-right: 500px;
+    margin-bottom: 75 px;
+    flex-direction: row-reverse;
+}
+
+.pic2 {
+    padding-left: 300px;
+}
+
+.fa-flag-usa {
+    color: red;
+}

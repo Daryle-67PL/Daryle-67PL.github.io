@@ -1,0 +1,41 @@
+body {
+  background-image: url("http://www.wallpapersin4k.org/wp-content/uploads/2017/04/Stars-And-Stripes-Wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#slider {
+  background: lightblue;
+  padding: 10px;
+  margin-top: 80px;
+}
+
+.fa-flag-usa {
+  color: blue;
+}
+
+#navBar {
+  height: 20px;
+}
+
+.strip {
+  color: white;
+  font-family: bangers;
+  margin: 200px;
+}
+
+.vegasPic1 {
+  width: 100vw;
+  height: 400;
+  display: flex;
+  flex-direction: row-reverse;
+  align-content: center;
+}
+
+.jumbotron {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  height: 150px;
+  margin-top: 20px;
+  font-size: 2em;
+  color: aliceblue;
+}
